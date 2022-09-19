@@ -6,11 +6,7 @@ const Application = styled.div`
 `;
 
 function App() {
-  return (
-    <Application>
-      <h1>Hello les gens</h1>
-    </Application>
-  );
+  return <Application></Application>;
 }
 
 export default App;

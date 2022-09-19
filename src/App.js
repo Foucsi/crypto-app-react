@@ -1,5 +1,9 @@
+import styled from "styled-components";
+
+const Application = styled.div``;
+
 function App() {
-  return <div className="App"></div>;
+  return <Application></Application>;
 }
 
 export default App;

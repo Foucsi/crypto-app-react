@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Roboto Condensed', sans-serif;;
+}
+
+a{
+    list-style-type: none;
+    text-decoration: none;
+}
